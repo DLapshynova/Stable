@@ -1,0 +1,379 @@
+.widebody{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5em;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+    color: #333;
+}
+
+.centered {
+    margin: 0 auto;
+    width: 970px;
+    min-width: 700px;
+}
+h1 {
+    padding-top: 10px;
+    font-size: 2em;
+    color: #4770a3;
+    float: left;
+    font-weight: normal;
+    margin-left: 40px;
+}
+
+.text {
+    float: left;
+    width: 530px;
+    text-align: justify;
+    line-height: 1.7em;
+    margin-left: 40px;
+    padding-top: 10px;
+
+}
+.bannerPosition{
+    padding-top: 20px;
+}
+#top {
+    background: url("images/templatemo_body_top.jpg") repeat-x;
+    height: 300px;
+  }
+#header {
+    color: #fff;
+    width: 100%;
+    height: 58px;
+}
+#title {
+    float: left;
+    color:#ffffff;
+    padding-left: 25px;
+    padding-top: 11px;
+    font-size: 2.2em;
+    width: auto;
+}
+#title:hover {
+    color:#ffffff;
+}
+#title span {
+    font-size: 0.45em;
+    color: gray;
+}
+#banner {
+    margin: 0;
+    padding: 0;
+    background: url(images/templatemo_banner.jpg) no-repeat center;
+    height: 239px;
+}
+
+#frame {
+    background:url(images/templatemo_banner_image_frame.png) no-repeat;
+    height: auto;
+    padding: 29px;
+    float: left;
+   margin-left: 5px;
+}
+
+#menu {
+    margin: 0;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    float: right;
+}
+
+#menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#menu ul li {
+    padding: 0;
+    margin: 0;
+    display: inline;
+
+}
+#menu ul li a {
+    float: left;
+    display: block;
+    height: 27px;
+    width: 67px;
+    margin-left: 10px;
+    padding: 7px 5px 0 5px;
+    text-align: center;
+    font-size: 12px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: normal;
+    outline: none;
+
+}
+#menu ul li a:hover {
+    background: url(images/templatemo_menu_hover.png) no-repeat;
+
+}
+#details_b {
+    margin-top: 10px;
+    width: 100px;
+    height: 24px;
+    background: url(images/templatemo_button_01.png) no-repeat;
+    float: right;
+    text-align: center;
+    padding-top: 3px;
+
+}
+a.details_b {
+    color: #ffffff;
+    text-decoration: none;
+}
+a.details_b:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+#left_line {
+    width: 635px;
+    height: 830px;
+    float: left;
+}
+
+#right_line {
+    width: 300px;
+    height: 830px;
+    float: right;
+}
+
+h2.stepped {
+    padding-top: 10px;
+    margin-left: 25px;
+    font-size: 2.1em;
+    color: #000000;
+    font-weight: normal;
+}
+
+.plain_text {
+    float: left;
+    text-align: justify;
+    line-height: 1.6em;
+    margin-left: 25px;
+    padding-top: 10px;
+}
+.separator {
+    width: 560px;
+    height: 1px;
+    margin-top: 35px;
+    margin-left: 30px;
+    background: silver;
+
+}
+.clearfix {
+    clear: both;
+}
+
+#news_icon {
+    width: 49px;
+    height: 50px;
+    float: left;
+    margin-top: 29px;
+    background: url(images/news_icon.png);
+}
+#news_bg {
+    width: 300px;
+    height: 465px;
+    background: url(images/templatemo_news_bg.png) repeat-x;
+    box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.10);
+}
+.options {
+    float: left;
+    width: 250px;
+    height: 150px;
+    list-style: none;
+    padding-top: 15px;
+}
+
+.options ul li {
+    display: block;
+    float: left;
+    background: url(images/templatemo_list_icon.png) no-repeat;
+    padding-left: 40px;
+    line-height: 2em;
+    padding-bottom: 15px;
+}
+
+#creativeIdeas {
+    width: 575px;
+    height: 150px;
+    padding-left: 20px;
+    text-decoration: none;
+}
+.creative02 {
+
+    padding-left: 17px;
+    float: left;
+    width: 174px;
+    height: 100px;
+    text-decoration: none;
+
+}
+
+div a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+div a {
+    text-decoration: none;
+    color: inherit;
+}
+.shadow {
+    box-shadow: 0 0 5px #333333;
+}
+.update {
+    color: #333;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 15px;
+    text-align: justify;
+}
+
+h3 {
+    color: dimgray;
+    font-size: 1.25em;
+    font-weight: bolder
+}
+span.date {
+    font-size: 0.9em;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color: cornflowerblue;
+    float: right;
+}
+
+#testimonal_icon{
+    background: url("images/testimonial_icon.png");
+    height: 44px;
+    width: 46px;
+    float: left;
+}
+.testimonal {
+    line-height: 0.7em;
+    padding-top: 25px;
+    padding-left: 60px;
+    text-align: left;
+    font-size: 2.1em;
+    color: #333333;
+    font-weight: normal;
+}
+
+#Testimonals p {
+    padding-left: 20px;
+    line-height: 1.7em;
+}
+#footer_center {
+    height: 240px;
+    background-color: rgb(23, 23, 23);
+    padding-left: 30px;
+    padding-top: 7px;
+    color: dimgray;
+
+}
+
+#footer {
+    height: 1130px;
+    background: url("images/templatemo_body_bottom.png") repeat-x bottom;
+    text-align: justify;
+
+}
+.inner {
+    height: 200px;
+    width: 160px;
+    float: left;
+    text-align: left;
+    padding-right: 20px;
+    padding-left: 10px;
+
+}
+.inner ul {
+    list-style: none;
+    padding: 0;
+
+}
+.inner ul a{
+    color: inherit;
+    text-decoration: underline;
+}
+.inner ul a:hover {
+    text-decoration: none;
+    color: darkgray;
+}
+.outer {
+    height: 200px;
+    width: 250px;
+    float: left;
+    padding-right: 25px;
+}
+h4 {
+    color: darkgray;
+    font-size: 1.5em;
+    font-weight: normal;
+}
+a > h3:hover {
+    color: #000000;
+}
+
+#line {
+    width: 250px;
+    height: 1px;
+    background-color: #333333;
+}
+
+a.intext {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+a.intext_f {
+    color: #4770a3;
+    text-decoration: none;
+}
+a.intext_f:hover {
+    color: darkgrey;
+    text-decoration: underline;
+}
+
+a.intext:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+#copyright {
+    text-align: center;
+    color: dimgray;
+}
+
+#copyright a {
+    text-decoration: underline;
+}
+#copyright a:hover {
+    text-decoration: underline;
+    color: darkgrey;
+}
+
+#scrollUp, #scrollDown {
+
+    height: 48px;
+    width: 50px;
+    bottom: 30px;
+    right: 30px;
+    float: right;
+    z-index: 1000;
+    position: fixed;
+
+
+}
+#scrollUp {
+    bottom: 80px;
+    visibility: hidden;
+}
+#scrollDown {
+    visibility: visible;
+}
